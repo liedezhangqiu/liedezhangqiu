@@ -2,7 +2,7 @@
 - 👀 I’m interested in java、python、c#、javascript
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me -> lic858@qq.com
 
 <!---
 liedezhangqiu/liedezhangqiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
