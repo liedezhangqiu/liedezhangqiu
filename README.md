@@ -1,5 +1,5 @@
 - 👋 Hi, I’m liedezhangqiu
-- 👀 I’m interested in java、python、c#、javascript
+- 👀 I’m interested in java、python、csharp、javascript、golang
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> lic858@qq.com
